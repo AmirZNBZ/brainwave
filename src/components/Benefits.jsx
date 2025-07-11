@@ -17,17 +17,17 @@ const Benefits = () => {
             <div
               className="block relative p-0.5 bg-no-repeat bg-[length:100%_100%] md:max-w-[24rem]"
               style={{
-                backgroundImage: `url(${item.backgroundUrl})`,
                 border: "1px solid",
-                borderImage: "linear-gradient(90deg, #33CEFF, #D633FF) 1",
                 borderTopRightRadius: "80px",
+                backgroundImage: `url(${item.backgroundUrl})`,
+                borderImage: "linear-gradient(90deg, #33CEFF, #D633FF) 1",
               }}
               key={item.id}
             >
               <div className="relative z-2 flex flex-col min-h-[22rem] p-[2.4rem] pointer-events-none">
                 <h5 className="h5 mb-5">{item.title}</h5>
                 <p className="body-2 mb-6 text-n-3">{item.text}</p>
-                <div className="flex items-center mt-auto">
+                <div className="flex items-center mt-auto cursor-pointer">
                   <img src={item.iconUrl} width={48} height={48} alt={item.title} />
                   <p className="ml-auto font-code text-xs font-bold text-n-1 uppercase tracking-wider">
                     Explore More
