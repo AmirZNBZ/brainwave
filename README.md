@@ -66,7 +66,6 @@ src/
 
 Made with ❤️
 
-![Preview](./public/screenshots/image1.png)
 ![Preview](./public/screenshots/image2.png)
 ![Preview](./public/screenshots/image3.png)
 ![Preview](./public/screenshots/image3.png)
