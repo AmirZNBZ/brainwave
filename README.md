@@ -1,12 +1,74 @@
-# React + Vite
+# 🧠 Brainwave
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to **Brainwave** — a modern React project powered by [Vite](https://vitejs.dev/)!  
+This starter template is designed for rapid prototyping and scalable development, featuring blazing fast HMR, a highly customizable ESLint setup, and everything you need to kickstart your next big idea.
 
-Currently, two official plugins are available:
+🔗 **Live Preview:** [https://amirznbz.github.io/brainwave/](https://amirznbz.github.io/brainwave/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## ⚙️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **React 19**
+- **Vite 7**
+- **Tailwind CSS 3**
+
+---
+
+## 🚀 Features
+
+- **Instant Hot Module Replacement (HMR):** Lightning-fast feedback during development.
+- **Minimal & Clean Setup:** Focus on building, not configuring.
+- **ESLint PreConfigured:** Enforced best practices and code quality out-of-the-box.
+- **Plugin Support:**
+  - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) — Babel-powered Fast Refresh.
+  - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) — SWC-powered Fast Refresh.
+
+---
+
+## 🏗️ Development
+
+To run the project locally:
+
+```bash
+git clone https://github.com/AmirZNBZ/brainwave.git
+cd brainwave
+npm install
+npm run dev
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+Open [http://localhost:5173](http://localhost:5173) to view your app.
+
+---
+
+## 📦 Deployment
+
+```bash
+npm run build
+npm run deploy
+```
+
+## 📁 Folder Structure
+
+public/
+src/
+├── assets/
+├── components/
+├── constants/
+
+## ✍️ Author
+
+Made with ❤️
+
+![Preview](./public/assets/screenshots/image1.png)
+![Preview](./public/assets/screenshots/image2.png)
+![Preview](./public/assets/screenshots/image3.png)
+![Preview](./public/assets/screenshots/image3.png)
+![Preview](./public/assets/screenshots/image3.png)
+![Preview](./public/assets/screenshots/image3.png)
