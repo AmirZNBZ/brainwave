@@ -66,9 +66,9 @@ src/
 
 Made with ❤️
 
-![Preview](./public/assets/screenshots/image1.png)
-![Preview](./public/assets/screenshots/image2.png)
-![Preview](./public/assets/screenshots/image3.png)
-![Preview](./public/assets/screenshots/image3.png)
-![Preview](./public/assets/screenshots/image3.png)
-![Preview](./public/assets/screenshots/image3.png)
+![Preview](./public/screenshots/image1.png)
+![Preview](./public/screenshots/image2.png)
+![Preview](./public/screenshots/image3.png)
+![Preview](./public/screenshots/image3.png)
+![Preview](./public/screenshots/image3.png)
+![Preview](./public/screenshots/image3.png)
