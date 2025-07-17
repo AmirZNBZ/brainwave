@@ -68,6 +68,6 @@ Made with ❤️
 
 ![Preview](./public/screenshots/image2.png)
 ![Preview](./public/screenshots/image3.png)
-![Preview](./public/screenshots/image3.png)
-![Preview](./public/screenshots/image3.png)
-![Preview](./public/screenshots/image3.png)
+![Preview](./public/screenshots/image4.png)
+![Preview](./public/screenshots/image5.png)
+![Preview](./public/screenshots/image6.png)
